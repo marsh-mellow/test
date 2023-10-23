@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Indique que le champ est validé par SRPI et ne peux etre modifié.  Pour demander une modification, utilisez le bouton Demande de changement sur cette page.</help>
+    <label>Numéro d’entreprise validé</label>
+    <name>BN_Lookup_validated__c</name>
+</CustomFieldTranslation>

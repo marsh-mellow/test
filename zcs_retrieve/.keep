@@ -1,5 +1,0 @@
-Files from the get-changeset.sh script will be retrieved and processed here.
-Structure is
-	CHANGESET-NAME
-		/mdapi      <-- Original metadata pull version
-		/sfdx_src   <-- Metadata converted to source version

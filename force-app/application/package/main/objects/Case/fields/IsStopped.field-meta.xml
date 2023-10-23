@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsStopped</fullName>
+    <inlineHelpText>Clockstop pauses the countdown of incomplete service standards (i.e. milestones). This should only be used when waiting for missing and/or additional information from applicant.</inlineHelpText>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+</CustomField>

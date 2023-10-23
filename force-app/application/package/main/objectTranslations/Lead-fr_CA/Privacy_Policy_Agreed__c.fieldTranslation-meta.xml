@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Le client doit accepter les conditions de la politique de protection de la vie privée (voir les indications en haut à droite)</help>
+    <label>Politique respect vie privée approuvée</label>
+    <name>Privacy_Policy_Agreed__c</name>
+</CustomFieldTranslation>

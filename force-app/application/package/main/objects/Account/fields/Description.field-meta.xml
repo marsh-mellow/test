@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Description</fullName>
+    <encryptionScheme>ProbabilisticEncryption</encryptionScheme>
+    <inlineHelpText>A description of the company's business. This field should not contain any information that is confidential or commercially or competitively sensitive.</inlineHelpText>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+</CustomField>

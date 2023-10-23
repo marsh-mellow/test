@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Primary_Address_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Primary Address Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Headquarters</fullName>
+                <default>true</default>
+                <label>Headquarters</label>
+            </value>
+            <value>
+                <fullName>Office</fullName>
+                <default>false</default>
+                <label>Office</label>
+            </value>
+            <value>
+                <fullName>Facility</fullName>
+                <default>false</default>
+                <label>Facility</label>
+            </value>
+            <value>
+                <fullName>Shipping</fullName>
+                <default>false</default>
+                <label>Shipping</label>
+            </value>
+            <value>
+                <fullName>Mailing</fullName>
+                <default>false</default>
+                <label>Mailing</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

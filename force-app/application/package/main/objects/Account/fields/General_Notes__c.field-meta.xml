@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>General_Notes__c</fullName>
+    <deprecated>false</deprecated>
+    <encryptionScheme>ProbabilisticEncryption</encryptionScheme>
+    <externalId>false</externalId>
+    <inlineHelpText>Additional information about the business that is not captured in the description or other fields. This field should not contain any information that is confidential or commercially or competitively sensitive.</inlineHelpText>
+    <label>General Notes (Pro-B)</label>
+    <length>32768</length>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

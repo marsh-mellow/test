@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AccountId</fullName>
+    <inlineHelpText>Type in the first letter(s) of the account name (company) to obtain a preview of the existing records (autocomplete feature). If the account does not exist, use the + New Account option to create a new entry. Use the TAB to navigate through the form.</inlineHelpText>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

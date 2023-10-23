@@ -1,2 +1,0 @@
-Unfortunately it doesn't seem like saleforce packages standardValueSets, which are included as part of the org-common package.
-This folder is here to hold these standardValueSets.  Even though they are in your packaging folder they are not installed as part of your package.

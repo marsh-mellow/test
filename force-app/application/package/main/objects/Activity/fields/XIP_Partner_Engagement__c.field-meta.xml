@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>XIP_Partner_Engagement__c</fullName>
+    <description>Partner Engagement</description>
+    <externalId>false</externalId>
+    <label>Partner Engagement</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Brand and FIP Guide</fullName>
+                <default>false</default>
+                <label>Brand and FIP Guide</label>
+            </value>
+            <value>
+                <fullName>Campaign Messaging</fullName>
+                <default>false</default>
+                <label>Campaign Messaging</label>
+            </value>
+            <value>
+                <fullName>Demo</fullName>
+                <default>false</default>
+                <label>Demo</label>
+            </value>
+            <value>
+                <fullName>Webinar</fullName>
+                <default>false</default>
+                <label>Webinar</label>
+            </value>
+            <value>
+                <fullName>Newsletter</fullName>
+                <default>false</default>
+                <label>Newsletter</label>
+            </value>
+            <value>
+                <fullName>Website link and content</fullName>
+                <default>false</default>
+                <label>Website link and content</label>
+            </value>
+            <value>
+                <fullName>Train the trainer</fullName>
+                <default>false</default>
+                <label>Train the trainer</label>
+            </value>
+            <value>
+                <fullName>Presentation to IP Holder</fullName>
+                <default>false</default>
+                <label>Presentation to IP Holder</label>
+            </value>
+            <value>
+                <fullName>Onboarding of IP Holder</fullName>
+                <default>false</default>
+                <label>Onboarding of IP Holder</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

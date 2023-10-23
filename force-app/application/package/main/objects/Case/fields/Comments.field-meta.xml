@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Comments</fullName>
+    <inlineHelpText>These comments are to be displayed in the related pane (Case Comments) on the right-hand side of the screen upon saving. Use this for day-to-day interactions/notes.</inlineHelpText>
+    <trackTrending>false</trackTrending>
+</CustomField>

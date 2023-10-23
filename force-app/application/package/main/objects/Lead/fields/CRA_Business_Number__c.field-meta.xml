@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRA_Business_Number__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The business number is a 9-digit number assigned to a corporation by the Canada Revenue Agency. It is often required to collect GST/HST or to make payroll deductions when paying employees.</description>
+    <encryptionScheme>None</encryptionScheme>
+    <externalId>false</externalId>
+    <inlineHelpText>The business number is a 9-digit number assigned to a corporation by the Canada Revenue Agency. It is often required to collect GST/HST or to make payroll deductions when paying employees.</inlineHelpText>
+    <label>Business Number</label>
+    <length>17</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

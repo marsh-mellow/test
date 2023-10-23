@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PB_Annual_Revenue__c</fullName>
+    <complianceGroup>PROB</complianceGroup>
+    <deprecated>false</deprecated>
+    <description>This field may contain protected B information</description>
+    <encryptionScheme>ProbabilisticEncryption</encryptionScheme>
+    <externalId>false</externalId>
+    <label>Annual Revenue</label>
+    <length>180</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

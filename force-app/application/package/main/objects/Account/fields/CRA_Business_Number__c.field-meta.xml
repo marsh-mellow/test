@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CRA_Business_Number__c</fullName>
+    <deprecated>false</deprecated>
+    <description>IxB: Used to define the BN from CRA. Have set field level to 17 to allow for the following format - &quot;123456789 RT 0123&quot;</description>
+    <encryptionScheme>None</encryptionScheme>
+    <externalId>false</externalId>
+    <label>CRA Business Number</label>
+    <length>17</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

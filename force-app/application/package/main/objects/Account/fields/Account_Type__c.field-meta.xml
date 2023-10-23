@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Account Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Asked - Not Provided</fullName>
+                <default>false</default>
+                <label>Asked - Not Provided</label>
+            </value>
+            <value>
+                <fullName>Business Support Centre</fullName>
+                <default>false</default>
+                <label>Business Support Centre</label>
+            </value>
+            <value>
+                <fullName>Educational Institution</fullName>
+                <default>false</default>
+                <label>Educational Institution</label>
+            </value>
+            <value>
+                <fullName>Entrepreneur Centre</fullName>
+                <default>false</default>
+                <label>Entrepreneur Centre</label>
+            </value>
+            <value>
+                <fullName>Federal Government</fullName>
+                <default>false</default>
+                <label>Federal Government</label>
+            </value>
+            <value>
+                <fullName>Incubator</fullName>
+                <default>false</default>
+                <label>Incubator</label>
+            </value>
+            <value>
+                <fullName>Industry Organization - Association</fullName>
+                <default>false</default>
+                <label>Industry Organization - Association</label>
+            </value>
+            <value>
+                <fullName>Innovation Centre</fullName>
+                <default>false</default>
+                <label>Innovation Centre</label>
+            </value>
+            <value>
+                <fullName>Local Municipal Government</fullName>
+                <default>false</default>
+                <label>Local Municipal Government</label>
+            </value>
+            <value>
+                <fullName>Non Profit Organization</fullName>
+                <default>false</default>
+                <label>Non Profit Organization</label>
+            </value>
+            <value>
+                <fullName>Not Asked</fullName>
+                <default>false</default>
+                <label>Not Asked</label>
+            </value>
+            <value>
+                <fullName>Other Government Program</fullName>
+                <default>false</default>
+                <label>Other Government Program</label>
+            </value>
+            <value>
+                <fullName>Partner</fullName>
+                <default>false</default>
+                <label>Partner</label>
+            </value>
+            <value>
+                <fullName>Provincial Government</fullName>
+                <default>false</default>
+                <label>Provincial Government</label>
+            </value>
+            <value>
+                <fullName>SME</fullName>
+                <default>false</default>
+                <label>SME</label>
+            </value>
+            <value>
+                <fullName>Stakeholder</fullName>
+                <default>false</default>
+                <label>Stakeholder</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

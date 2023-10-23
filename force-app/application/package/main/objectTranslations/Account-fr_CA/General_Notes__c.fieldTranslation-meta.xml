@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Informations supplémentaires sur l&apos;entreprise qui ne sont pas saisies dans la description ou d&apos;autres domaines. Ce champ ne doit contenir aucune information confidentielle ou sensibles sur le plan commercial ou concurrentiel.</help>
+    <label>Notes générales (Pro-B)</label>
+    <name>General_Notes__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Aliases__c</fullName>
+    <deprecated>false</deprecated>
+    <encryptionScheme>None</encryptionScheme>
+    <externalId>false</externalId>
+    <inlineHelpText>Alternative names when the business is referenced that are different from the value in &quot;Name&quot; , &quot;Operating Name&quot; and &quot;Legal Name&quot; fields. Examples include alternative spelling, previous known name, etc.</inlineHelpText>
+    <label>Aliases</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>TextArea</type>
+</CustomField>
