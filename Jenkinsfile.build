@@ -1,0 +1,22 @@
+@Library(["ised-cicd-lib", "ised-coe_sf_ci@develop"]) _
+
+pipeline {
+	agent {
+		label 'salesforce'
+	}
+
+	options {
+		disableConcurrentBuilds()
+	}
+
+	stages {
+		stage('build') {
+			steps {
+				script{
+					buildSalesforce('codey')
+				}
+			}
+		}
+	}
+}
+

@@ -1,0 +1,54 @@
+{
+	"orgName": "test-ised",
+	"edition": "Developer",
+	"features": [
+		"EnableSetPasswordInApi",
+		"AuthorApex",
+		"Communities",
+		"FlowSites",
+		"ProcessBuilder",
+		"DebugApex",
+		"Sites",
+		"PlatformCache",
+		"ContactsToMultipleAccounts",
+		"RecordTypes",
+		"StateAndCountryPicklist"
+	],
+	"settings": {
+		"communitiesSettings": {
+			"enableCommunityWorkspaces": true,
+			"enableNetworksEnabled": true
+		},
+		"experienceBundleSettings": {
+			"enableExperienceBundleMetadata": true
+		},
+		"lightningExperienceSettings": {
+			"enableS1DesktopEnabled": true
+		},
+		"languageSettings": {
+			"enableTranslationWorkbench": true,
+			"enablePlatformLanguages": true
+		},
+		"quoteSettings": {
+			"enableQuote": true
+		},
+		"mobileSettings": {
+      			"enableS1EncryptedStoragePref2": false
+    		}
+	},
+	"objectSettings": {
+		"account": {
+			"enableRelateContactToMultipleAccounts": true,
+			"sharingModel": "private"
+		},
+		"case": {
+			"sharingModel": "private"
+		},
+		"opportunity": {
+			"sharingModel": "private"
+		},
+		"contact": {
+			"sharingModel": "controlledByParent"
+		}
+	}
+}

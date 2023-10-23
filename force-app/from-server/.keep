@@ -1,0 +1,2 @@
+Files from salesforce server will be pulled into this directory and must be moved to one of the other directories.
+DO NOT checkin anything in this directory.

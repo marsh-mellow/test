@@ -1,0 +1,37 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app/from-server",
+            "default": true
+        },
+        {
+            "path": "force-app/application/package",
+            "package": "testsfbug",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false,
+            "definitionFile": "config/project-scratch-def.json",
+            "dependencies": [
+                {
+                    "package": "Global Common",
+                    "subscriberPackageVersionId": "04t2B0000000TpXQAU"
+                },
+                {
+                    "package": "org-common",
+                    "subscriberPackageVersionId": "04tOG00000004EvYAI"
+                }
+            ]
+        },
+        {
+            "path": "force-app/application/post-deploy",
+            "default": false
+        },
+        {
+            "path": "force-app/application/scratch-only",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0"
+}
